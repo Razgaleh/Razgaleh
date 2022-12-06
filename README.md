@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Razgaleh
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, and Data Science.
-- 🌱 I’m currently learning about Machine Learning, Artificial Intelligence, and Natural Language Processing at UoL.
+- 🌱 I’m currently learning about Machine Learning, Artificial Intelligence, and Natural Language Processing and Advanced Data Techniques at UoL.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me: @Razgaleh#5452 on Discord.
 
