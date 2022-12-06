@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Razgaleh
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, and Quantum Computing.
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, and Data Science.
 - 🌱 I’m currently learning Machine Learning, Artificial Intelligence, and Natural Language Processing at UoL 
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me: @Razgaleh#5452 on Discord.
