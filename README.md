@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Razgaleh. 
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Science, and Physics.
--
+- 👀 I’m passionate about Machine Learning, Artificial Intelligence, and Physics.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me: @Razgaleh#5452 on Discord.
 
